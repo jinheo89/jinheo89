@@ -5,12 +5,34 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+# Backedn :
+- Java, Python
+- JSP, Servlet Programming
+- Spring Framework, Spring web MVC, Spring JDBC
+- Eclipse
+
+# Frontend :
+- HTML5, CSS3, JS
+- Bootstrap
+
+# DevOps
+- AWS EC2
+- Oracle
+- Tomcat
+
+# Database
+- Oracle
+- Hadoop system -MapReduce
+
+# Basic
+- Linux system basic
+- Network basic
+- Java-Multithread, API
+
+# Collaboration
+- Git, Github, Sourcetree
+- Eclipse-Github
+
+
 -->
