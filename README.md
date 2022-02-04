@@ -19,7 +19,7 @@ Here are my Skills as follows;
 
 # Database
 - <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
-- <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=Apache Hadoop&logoColor=white"/></a> system -MapReduce
+- Hadoop system -MapReduce
 
 # Basic
 - <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a> system basic
