@@ -1,4 +1,5 @@
 ### Hi, I'm web developer 👋
+- 🌱 I’m currently learning **Machinelearning, Deeplearning**
 
 Here are my Skills as follows;
 
@@ -31,7 +32,7 @@ Here are my Skills as follows;
 - Eclipse-Github
 
 
-- 🌱 I’m currently learning **Machinelearning, Deeplearning**
+# contact
 
 - 👨‍💻 All of my projects are available at [https://github.com/Salmon2022](https://github.com/Salmon2022)
 
