@@ -14,6 +14,7 @@ Here are my Skills as follows;
 
 # DevOps
 - AWS EC2
+- <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
 - <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=white"/></a>
 
 # Database
