@@ -1,12 +1,8 @@
-### Hi there 👋
+### Hi, I'm web developer 👋
 
-<!--
-**jinheo89/jinheo89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are my Skills as follows;
 
-Here are some ideas to get you started:
-
-
-# Backedn :
+# Backend :
 - Java, Python
 - JSP, Servlet Programming
 - Spring Framework, Spring web MVC, Spring JDBC
@@ -33,6 +29,3 @@ Here are some ideas to get you started:
 # Collaboration
 - Git, Github, Sourcetree
 - Eclipse-Github
-
-
--->
