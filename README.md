@@ -1,6 +1,6 @@
 ### Hi, I'm web developer 👋
 + 🌱 I’m currently learning Load Map to Frankly Planning & technical PM with **Machinelearning, Deeplearning**
-+ 👨‍💻 I’m currently get ready to employ Naver Cloud Platform App. developer by coworking RPA(Kim Shin Hae : Nature Born in Jeju).
++ 👨‍💻 I’m currently get ready to employ Naver Cloud Platform App. developer by coworking RPA(SinHye Kim : Nature Born in Jeju).
 
   [Please feel free to apply our company ; ]
  + Website: https://self-luminousrappidrabbit.com/
