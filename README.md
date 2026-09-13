@@ -1,6 +1,5 @@
 ### Hi, I'm web developer 👋
-+ 🌱 I’m currently learning Load Map to Frankly Planning & technical PM with **Machinelearning, Deeplearning**
-+ 👨‍💻 I’m currently get ready to employ Naver Cloud Platform App. 
++ 🌱 I’m currently learning Load Map to Frankly Planning & technical PM with **Machinelearning, Deeplearning*
 
 
 Here are my Skills as follows;
