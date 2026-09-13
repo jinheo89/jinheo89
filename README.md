@@ -2,12 +2,6 @@
 + 🌱 I’m currently learning Load Map to Frankly Planning & technical PM with **Machinelearning, Deeplearning**
 + 👨‍💻 I’m currently get ready to employ Naver Cloud Platform App. 
 
-  [Please feel free to apply our company ; ]
- + Website: https://self-luminousrappidrabbit.com/
- + Office Tel: 02-883-2812
- + Email: jinheo89@gmail.com
- + Customer Service Center: +82-10-9795-2869
- + HGPT Chat bot (Free Mock Up Service Exp.): https://pf.kakao.com/_xmCfWxj 
 
 Here are my Skills as follows;
 
